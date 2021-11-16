@@ -13,6 +13,8 @@
 <a href = "mailto:gustavocarvalhomorais@gmail.com"><img align="center" height="30" width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   
 ## **My Skills:**
+
+## **Learning:**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" style="max-width:100%;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" style="max-width:100%;"></img>
   
