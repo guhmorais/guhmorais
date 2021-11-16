@@ -16,9 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" style="max-width:100%;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" style="max-width:100%;"></img>
   
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/guhmorais">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guhmorais&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhmorais&layout=compact&langs_count=7&theme=chartreuse-dark"/>   
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhmorais&layout=compact&langs_count=7&theme=chartreuse-dark"/></div>
   
