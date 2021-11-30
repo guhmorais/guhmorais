@@ -2,7 +2,7 @@
 
 
 - 🌎 I live in 🇧🇷
-- 📚 I’m currently learning  HTML, CSS
+- 📚 I’m currently learning  HTML, CSS, JS
 - ✌️ Welcome
 ##
 
