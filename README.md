@@ -17,6 +17,8 @@
 ## **Learning:**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" style="max-width:100%;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" style="max-width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JS" width="50" height="50" style="max-width:100%;"></img>
+
   
 <div align="center">
   <a href="https://github.com/guhmorais">
