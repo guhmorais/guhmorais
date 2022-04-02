@@ -44,8 +44,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gustavo Morais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guhmorais&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guhmorais&show_icons=true&locale=en&layout=compact&theme=algolia" alt="guhmorais" height="192px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gustavo Morais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guhmorais&show_icons=true&count_private=true&theme=maroongold" height="192px"/></a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guhmorais&show_icons=true&locale=en&layout=compact&theme=maroongold" alt="guhmorais" height="192px"/>
   <br/>
   </p>
 </details>
@@ -59,7 +59,9 @@
 
 </details>
 
-<br/>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
   
 
   
